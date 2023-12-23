@@ -4,6 +4,3 @@
 
 👀 ***scouting captain on hva rohawktics***
 
-🚀 ***apart of the aerohawks***
-
-📝 ***participated in nasa student launch in 2024***

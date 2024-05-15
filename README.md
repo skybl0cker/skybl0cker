@@ -1,6 +1,3 @@
-🏫 ***hva 2025***
+Hobbyist Programmer in High School. Fluent in Flutter/Dart, Java, and Javascript. Learning Python and Rust.
 
-🤖 ***apart of frc3824 hva rohawktics*** 
-
-👀 ***scouting captain on hva rohawktics***
-
+Apart of FRC 3824 the HVA RoHAWKtics, 2024 Scouting Captain. 

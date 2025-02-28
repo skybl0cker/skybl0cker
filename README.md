@@ -36,9 +36,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
   <img width="12 />
-  <img src="![image](https://github.com/user-attachments/assets/108564ee-2d7a-4d0d-9e10-5f25ac5622c9)
-" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
 </div>
 
 ###
